@@ -1,0 +1,7 @@
+{
+  "music_eotg": { "category": "record", "sounds":[{ "name": "botanyaddon:music/edgeofground", "stream": true }] },
+  "music_manemane": { "category": "record", "sounds":[{ "name": "botanyaddon:music/manemanepsychotropic", "stream": true }] },
+  "music_flandre": { "category": "record", "sounds":[{ "name": "botanyaddon:music/unowenwasher", "stream": true }] },
+  "music_weeping": { "category": "record", "sounds":[{ "name": "botanyaddon:music/weeping", "stream": true }] },
+  "sfx_explosion": { "sounds":[{ "name": "botanyaddon:sfx/explosion", "stream": true }] }
+}

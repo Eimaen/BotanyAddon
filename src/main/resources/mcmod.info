@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "botanyaddon",
+    "name": "BotanyAddon",
+    "description": "Even more references and OP items!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Eimaen"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
